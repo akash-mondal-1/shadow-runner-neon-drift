@@ -30,16 +30,6 @@ https://novacircuit.gamejolt.io/shadow-runner-neon-drift
 
 ---
 
-## SCREENSHOTS
-
-![Gameplay](screenshots/gameplay.png)
-
-![Menu](screenshots/menu.png)
-
-![Progress](screenshots/progress.png)
-
----
-
 ## TECH STACK
 
 * React Native
